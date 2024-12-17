@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: rgb(39, 39, 39);
+  color: rgb(235, 235, 235);
+}
+
+li {
+  list-style-type: none;
+}
